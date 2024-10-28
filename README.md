@@ -1,4 +1,4 @@
-# Lab Program 1: Edge Detection and Image Filters
+# Lab Program 1: Image Convolution and Edge Detection Using Sobel Operation
 
 This lab program focuses on various image processing techniques, particularly convolution and edge detection. It utilizes the Sobel operation to identify edges in images, providing insight into the spatial frequency of pixel intensities. The following sections detail the steps involved in applying different edge detection methods and transformations.
 
